@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Network</string>
+    <string name="title_message">消息</string>
+    <string name="title_contact">联系人</string>
+    <string name="title_user">我</string>
+
+    <string name="label_sign_in">登录</string>
+    <string name="label_register">注册</string>
+
+    <string name="tip_username">用户名/手机号</string>
+    <string name="tip_password">密码</string>
+    <string name="tip_retain_password">记住密码?</string>
+    <string name="tip_register">注册></string>
+
+    <string name="text_login">登录</string>
+    <string name="text_setting">设置</string>
+
+    <string name="text_phone">手机号</string>
+    <string name="text_register">注册</string>
+
+    <string name="text_avatar">头像</string>
+    <string name="text_nickname">昵称</string>
+    <string name="text_funchat_account">趣聊号</string>
+    <string name="text_dimensional_barcode">二维码名片</string>
+    <string name="text_more">更多</string>
+    <string name="text_save">保存</string>
+    <string name="title_personal_info">个人信息</string>
+    <string name="title_picture">图片</string>
+    <string name="title_update_nickname">更改名字</string>
+    <string name="title_dimensional_barcode">二维码名片</string>
+    <string name="title_more">更多</string>
+    <string name="text_group_chat">群聊</string>
+    <string name="title_add_contact">新增联系人</string>
+    <string name="title_generate_group">发起群聊</string>
+    <string name="title_group">群聊</string>
+    <string name="title_chat_info">聊天信息</string>
+
+    <string name="error_username_empty">用户名为空！</string>
+    <string name="error_password_empty">密码为空！</string>
+    <string name="error_password_too_short">密码低于6位！</string>
+    <string name="error_password_inconsistent">密码不一致！</string>
+    <string name="title_message_search">搜索</string>
+
+    <string name="title_note">设置备注和标签</string>
+    <string name="title_same_contact_group">我们的共同群聊</string>
+    <string name="title_more_information">更多信息</string>
+    <string name="title_personal_signature">个性签名</string>
+    <string name="title_send_message">发送消息</string>
+    <string name="title_source">来源</string>
+    <string name="title_social_data">社交资料</string>
+    <string name="title_contact_info_set">资料</string>
+
+    <string name="tip_fun_chat_account">趣聊号:</string>
+
+    <string name="tip_update_nickname">好的名字可以让你的朋友更容易记住你</string>
+    <string name="tip_login">登录中…</string>
+
+    <string name="rationale_storage">我们将获取手机存储权限，这个权限仅用于获取手机的照片。</string>
+    <string name="rationale_permissions_denied">权限被拒绝后将无法正常使用该功能，是否打开设置界面修改权限?</string>
+    <string name="rationale_title">请求权限</string>
+    <string name="rationale_ask_ok">确定</string>
+    <string name="rationale_ask_cancel">取消</string>
+
+</resources>

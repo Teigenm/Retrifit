@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/red_500</color>
+    <color name="colorPrimaryDark">@color/red_900</color>
+    <color name="colorAccent">@color/red_700</color>
+    <color name="colorControlNormal">#FF1457FF</color>
+    <color name="colorControlActivated">@color/colorPrimary</color>
+
+    <color name="window_background_color">#EBEBEB</color>
+
+    <color name="divider_color">#FFEEEEEE</color>
+
+    <color name="hint_text_color">#03A9F4</color>
+
+    <color name="text_color">#FF212121</color>
+    <color name="text_color_secondary">#FF757575</color>
+    <color name="tab_text_color">#FFCCCCCC</color>
+
+    <color name="icon_tint_color">#949393</color>
+
+    <color name="red_50">#FFfde0dc</color>
+    <color name="red_100">#FFf9bdbb</color>
+    <color name="red_200">#FFf69988</color>
+    <color name="red_300">#FFf36c60</color>
+    <color name="red_400">#FFe84e40</color>
+    <color name="red_500">#FFe51c23</color>
+    <color name="red_600">#FFdd191d</color>
+    <color name="red_700">#FFd01716</color>
+    <color name="red_800">#FFc41411</color>
+    <color name="red_900">#FFb0120a</color>
+    <color name="red_a100">#FFff7997</color>
+    <color name="red_a200">#FFff5177</color>
+    <color name="red_a400">#FFff2d6f</color>
+    <color name="red_a700">#FFe00032</color>
+
+    <color name="gray_100">#ffffff</color>
+    <color name="gray_150">#eeeeee</color>
+    <color name="gray_200">#dddddd</color>
+    <color name="gray_250">#cccccc</color>
+    <color name="gray_300">#bbbbbb</color>
+    <color name="gray_350">#aaaaaa</color>
+    <color name="gray_400">#999999</color>
+    <color name="gray_450">#888888</color>
+    <color name="gray_500">#777777</color>
+    <color name="gray_550">#666666</color>
+    <color name="gray_600">#555555</color>
+    <color name="gray_650">#444444</color>
+    <color name="gray_700">#333333</color>
+    <color name="gray_750">#222222</color>
+    <color name="gray_800">#111111</color>
+    <color name="gray_850">#000000</color>
+
+</resources>
